@@ -13,20 +13,13 @@ function getSettings() {
         'scrollLeft': 'h',
         'scrollRight': 'l',
         'scrollSize': 50,
-        'scrollUpHalfPage': 'u',
+        'scrollUpHalfPage': 'w',
         'scrollDownHalfPage': 'd',
         'goToPageTop': 'g g',
         'goToPageBottom': 'shift+g',
 
         'goBack': 'shift+h',
         'goForward': 'shift+l',
-        'reload': 'r',
-        'tabForward': 'w',
-        'tabBack': 'q',
-        'closeTab': 'x',
-        'closeTabReverse': 'shift+x',
-
-        'openTab': 't',
     };
 }
 
